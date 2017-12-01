@@ -13,13 +13,9 @@ Today, we’re going to create a model to predict who would have lived (and died
 3. What type of algorithm do we want to use?
 
 ### Get the data
+1. Clone this repository and open "train.csv" in Excel. For reference, see [Titanic Kaggle](https://www.kaggle.com/c/titanic/data) for more information about the data itself.
 
-1. Navigate to [Kaggle.com](https://www.kaggle.com/c/titanic/data) to download the Titanic data set.  
-
-2. Next to "train.csv", click the Download button. Save the file, and open it in Excel.
-
-    ![Download data](/images/download.JPG)
-    ![Excel](/images/excel.jpg)
+**Note**: If you do not want to add more features for your model, skip the next section (Feature Engineering) and use "train-modified.csv". 
 
 ### Feature Engineering
 
